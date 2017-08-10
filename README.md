@@ -1,2 +1,2 @@
 # 30-Days-of-Python
-Implementing stuff on Python
+Part of the tutorial 30-days-of-Python
